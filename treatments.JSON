@@ -1,0 +1,140 @@
+{
+    "apple_scab": {
+      "treatments": [
+        {
+          "name": "Fungicides",
+          "description": "Apply a fungicide containing captan or myclobutanil according to the label instructions. Repeat applications may be necessary, especially during wet periods.",
+          "long_term_effectiveness": "High, especially when used preventatively.",
+          "sources": [
+            "https://extension.psu.edu/apple-scab",
+            "https://www.gardeningknowhow.com/plant-problems/disease/apple-scab-treatment.htm"
+          ]
+        },
+        {
+          "name": "Sanitation",
+          "description": "Remove and destroy fallen leaves in the autumn to reduce the source of infection for the following year. This is a critical step in long-term control.",
+          "long_term_effectiveness": "High, helps prevent future outbreaks.",
+          "sources": [
+            "https://extension.umn.edu/plant-diseases/apple-scab"
+          ]
+        }
+      ],
+      "general_advice": [
+        {
+          "advice": "Maintain good air circulation around trees by pruning and spacing. This helps leaves dry quickly, reducing the risk of fungal diseases.",
+          "links": [
+            "https://extension.psu.edu/apple-scab"
+          ]
+        },
+        {
+          "advice": "Prune infected branches during dormancy to remove sources of the disease. Dispose of pruned material properly.",
+          "links": [
+            "https://www.gardeningknowhow.com/plant-problems/disease/apple-scab-treatment.htm"
+          ]
+        }
+      ]
+    },
+    "black_rot": {
+      "treatments": [
+        {
+          "name": "Fungicides",
+          "description": "Apply a fungicide labeled for black rot, such as those containing copper, mancozeb, or propiconazole, following label instructions. Applications are often most effective when made preventatively, before symptoms appear.",
+          "long_term_effectiveness": "Moderate, requires repeated applications.",
+          "sources": [
+            "https://extension.umn.edu/plant-diseases/black-rot-apple"
+          ]
+        },
+        {
+          "name": "Sanitation",
+          "description": "Remove and destroy mummified fruit, fallen leaves, and pruned branches to eliminate sources of the fungus. This is essential for controlling black rot.",
+          "long_term_effectiveness": "High, essential for disease control.",
+          "sources": [
+            "https://extension.umn.edu/plant-diseases/leaf-spot-diseases-trees-and-shrubs"
+          ]
+        }
+      ],
+      "general_advice": [
+        {
+          "advice": "Remove mummified fruit from the tree and ground promptly. This prevents the fungus from overwintering and infecting new fruit the following year.",
+          "links": [
+            "https://farmonaut.com/precision-farming/bitter-rot-in-apples-identifying-preventing-and-managing-this-destructive-orchard-disease"
+          ]
+        },
+        {
+          "advice": "Prune out cankered branches, cutting several inches below the affected area. Dispose of the pruned material properly.",
+          "links": [
+            "https://hyg.ipm.illinois.edu/pastpest/200218b.html"
+          ]
+        },
+        {
+          "advice": "Improve air circulation around the tree by pruning and spacing. This helps to dry the leaves and fruit, reducing the risk of fungal infection.",
+          "links": [
+            "https://extension.umn.edu/plant-diseases/black-rot-apple"
+          ]
+        }
+      ]
+    },
+    "cedar_apple_rust": {
+      "treatments": [
+        {
+          "name": "Fungicides",
+          "description": "Apply a fungicide containing myclobutanil, fenbuconazole, or propiconazole, following label instructions. Apply at bud break and repeat as needed, especially during wet springs.",
+          "long_term_effectiveness": "Moderate, requires repeated applications.",
+          "sources": [
+            "https://extension.psu.edu/cedar-apple-rust"
+          ]
+        },
+        {
+          "name": "Removal of Cedar Trees (if practical)",
+          "description": "If feasible, removing nearby cedar trees (the alternate host) can help break the disease cycle. This is often a long-term solution but may not always be practical.",
+          "long_term_effectiveness": "High, but not always practical.",
+          "sources": [
+            "https://www.purdue.edu/fnr/extension/woodyornamentals/cedarapplerust/"
+          ]
+        }
+      ],
+      "general_advice": [
+        {
+          "advice": "Rake up and dispose of fallen apple leaves in the autumn to reduce the overwintering inoculum.",
+          "links": [
+            "https://www.canr.msu.edu/news/reduction_of_overwintering_inoculum_in_orchards_with_apple_scab1"
+          ]
+        },
+        {
+          "advice": "Prune out galls on cedar trees during the dormant season to reduce the source of spores. This is best done in late winter or early spring.",
+          "links": [
+            "https://www.google.com/search?q=Prune+out+galls+on+cedar+trees+during+the+dormant+season+to+reduce+the+source+of+spores.+This+is+best+done+in+late+winter+or+early+spring&rlz=1C1ONGR_enIN1068IN1068&oq=Prune+out+galls+on+cedar+trees+during+the+dormant+season+to+reduce+the+source+of+spores.++This+is+best+done+in+late+winter+or+early+spring&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIwNDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"
+          ]
+        },
+        {
+          "advice": "Space apple trees appropriately to improve air circulation and reduce humidity, which can favor fungal growth.",
+          "links": [
+            "https://www.azurefarmlife.com/farm-blog/growing-healthy-apple-trees#:~:text=Air%20Circulation%20and%20Space,between%20trees%20to%20prevent%20crowding."
+          ]
+        }
+      ]
+    },
+    "healthy": {
+      "treatments": [],
+      "general_advice": [
+        {
+          "advice": "Regularly inspect your apple trees for signs of disease or pests. Early detection is key to effective treatment.",
+          "links": [
+            "https://apples.ces.ncsu.edu/apple-disease-management"
+          ]
+        },
+        {
+          "advice": "Provide proper care, including adequate watering, fertilization, and pruning, to keep your trees healthy and resistant to disease.",
+          "links": [
+            "https://www.rootsplants.co.uk/blogs/features/apple-tree-diseases"
+          ]
+        },
+        {
+          "advice": "Practice good sanitation by removing fallen leaves and debris around the trees. This helps prevent the buildup of disease-causing organisms.",
+          "links": [
+            "https://ag.purdue.edu/department/btny/ppdl/potw-dept-folder/2023/fall-sanitation.html#:~:text=FALL%20SANITATION%20IS%20IMPORTANT%20TO%20REDUCE%20THE%20AMOUNT%20OF%20DISEASE%20CARRYOVER.,-Gail%20Ruhl%2C%20Retired&text=The%20parasitic%20fungi%20that%20cause,and%20in%20'mummified'%20fruit."
+          ]
+        }
+      ]
+    }
+  }
