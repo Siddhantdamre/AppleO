@@ -1,6 +1,59 @@
+# AppleO - Apple Disease Detection System
+
+This project combines machine learning for apple disease detection with a Next.js frontend interface.
+
+## Project Structure
+
+The repository is organized into the following directories:
+
+### 📂 **data_processing/**
+Scripts for cleaning, splitting, and preprocessing the apple disease dataset.
+- Dataset cleaning and validation
+- Train/validation/test split (70/15/15)
+- Image preprocessing and normalization
+
+### 📂 **models/**
+Machine learning model building and training scripts.
+- CNN models for disease classification
+- Transfer learning with ResNet50
+- Model evaluation and metrics
+
+### 📂 **prediction/**
+Scripts for making predictions on new images using trained models.
+- Disease prediction with treatment recommendations
+- Single image testing and inference
+
+### 📂 **utils/**
+Utility scripts for dataset management and testing.
+- Image counting and statistics
+- File validation and inspection
+- Data cleanup operations
+
+### 📄 **Root Files**
+- `treatments.JSON` - Treatment recommendations for each disease type
+- `image.jpg` - Sample image
+- `commands.txt` - Common command examples
+- Next.js configuration files
+
+## Apple Disease Classification
+
+The ML models classify apple leaf diseases into 4 categories:
+1. **Apple Scab**
+2. **Black Rot**
+3. **Cedar Apple Rust**
+4. **Healthy**
+
+## Machine Learning Workflow
+
+1. **Data Processing**: Clean and preprocess images (`data_processing/`)
+2. **Model Training**: Train classification models (`models/`)
+3. **Prediction**: Use trained models for inference (`prediction/`)
+
+## Frontend (Next.js)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+### Getting Started
 
 First, run the development server:
 
