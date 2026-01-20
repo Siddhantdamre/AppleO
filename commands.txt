@@ -1,2 +1,15 @@
-python model_building.py
-python tsting.py
+# Model training
+python models/model_building.py
+python models/new_model.py
+
+# Data processing workflow
+python data_processing/data_clean.py
+python data_processing/data_split.py
+python data_processing/data_preprocessing.py
+
+# Prediction
+python prediction/prediction_model.py
+
+# Utils/Testing
+python utils/tsting.py
+python utils/countafimages.py
