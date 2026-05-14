@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AppleO
 
-## Getting Started
+TypeScript/Next.js AI analytics dashboard with chat, prediction forms, reports, authentication, and visualization components.
 
-First, run the development server:
+## What It Does
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Provides dashboard and analytics UI components.
+- Includes AI chat and prediction form experiments.
+- Supports login/auth context and report generation flows.
+- Organizes reusable UI components for a richer product surface.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+TypeScript, Next.js/React, dashboard UI, AI chat, analytics workflows.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Repository Map
 
-## Learn More
+- `AIChat.tsx` - AI assistant/chat interface.
+- `Dashboard.tsx`, `AdvancedAnalytics.tsx` - analytics views.
+- `PredictionForm.tsx`, `ReportGenerator.tsx` - ML/product workflow components.
+- `AuthContext.tsx`, `Login.tsx`, `api.ts` - auth and API wiring.
 
-To learn more about Next.js, take a look at the following resources:
+## Status
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Prototype frontend. It is strongest as a UI/product engineering sample.
